@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Website Developer",
+    "organisation": "Mega Kreasi Indonesia",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Create and Develop Website", "Landing Page Responsive", "REST Full APIs "],
+    "imageSrc": "history/mki.png"
+  },
+  {
+    "role": "CyberSecurity Bootcamp",
+    "organisation": "Infra Digital",
+    "startDate": "Aug, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": ["Analyze Network Security", "Securing Networks and Systems"],
+    "imageSrc": "history/infra.png"
+  },
+  {
+    "role": "Microtik Academy",
+    "organisation": "Microtik",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Create and Design Networks",
+      "Secure and Easy to use Network"
+    ],
+    "imageSrc": "history/microtik.png"
+  }
+]

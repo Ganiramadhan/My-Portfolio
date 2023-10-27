@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/finance_report.png",
+    "description": "This Website crud report with Rest Full APIs finance in Mega kreasi Indotama.",
+    "skills": ["Laravel", "MYSQL", "Rest Full APIs"],
+    "demo": "https://keuangan.megamaster.id/",
+    "source": "https://github.com/Ganiramadhan/Laporan-Keuangan---Laravel.git"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
