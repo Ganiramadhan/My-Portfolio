@@ -34,16 +34,6 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Security Analyst</h3>
-              <p>
-                Analyze the security of a network, and create a secure network
-                system.
-              </p>
-            </div>
-          </li>
         </ul>
       </div>
     </section>

@@ -1,6 +1,14 @@
 [
   {
-    "title": "Project A",
+    "title": "School landing page Website",
+    "imageSrc": "projects/yanfa.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://yanfa.co.id/",
+    "source": "https://github.com/Ganiramadhan"
+  },
+  {
+    "title": "Finance Report",
     "imageSrc": "projects/finance_report.png",
     "description": "This Website crud report with Rest Full APIs finance in Mega kreasi Indotama.",
     "skills": ["Laravel", "MYSQL", "Rest Full APIs"],
@@ -8,19 +16,12 @@
     "source": "https://github.com/Ganiramadhan/Laporan-Keuangan---Laravel.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Restaurant Management",
+    "imageSrc": "projects/coffeshop.png",
+    "description": "This is a project Restaurant management using Inertia Laravel and React Js .",
+    "skills": ["React", "Inertia", "Laravel", "Thailwind"],
+    "demo": "https://github.com/Ganiramadhan",
+    "source": "https://github.com/Ganiramadhan"
   }
+
 ]

@@ -8,6 +8,10 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.jpg"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -15,17 +19,20 @@
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
+  {
+    "title": "InertiaJs",
+    "imageSrc": "skills/inertia.png"
+  },
+
 
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
   },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
-  },
+
   {
     "title": "Kali Linux",
     "imageSrc": "skills/kali.png"
   }
+
 ]
